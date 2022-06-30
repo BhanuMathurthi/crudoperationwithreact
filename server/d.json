@@ -1,0 +1,100 @@
+{
+  "users": {
+    "student1": [
+      {
+        "id": "1",
+        "name": "Leanne Graham",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "phone": "1-770-736-8031 x56442",
+        "address": {
+          "street": "Kulas Light",
+          "city": "Gwenborough"
+        }
+      },
+      {
+        "id": "1",
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv",
+        "phone": "73680317557",
+        "address": {
+          "street": "Victor Plains",
+          "city": "Wisokyburgh"
+        }
+      }
+    ],
+    "student2": [
+      {
+        "id": "2",
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "phone": "98383863863",
+        "address": {
+          "street": "edgabaston",
+          "city": "London"
+        }
+      },
+      {
+        "id": "2",
+        "name": "Patricia Lebsack",
+        "username": "Karianne",
+        "email": "Julianne.OConner@kory.org",
+        "phone": "73680317557",
+        "address": {
+          "street": "Plains",
+          "city": "kyburgh"
+        }
+      }
+    ],
+    "student3": [
+      {
+        "id": "3",
+        "name": "raheem",
+        "username": "lee",
+        "email": "hy@april.biz",
+        "phone": "992927922",
+        "address": {
+          "street": "Kulas Light",
+          "city": "Gwenborough"
+        }
+      },
+      {
+        "id": "3",
+        "name": "cowell",
+        "username": "onette",
+        "email": "cha@melissa.tv",
+        "phone": "9186181577",
+        "address": {
+          "street": "hans",
+          "city": "capetown"
+        }
+      }
+    ],
+    "student4": [
+      {
+        "id": "4",
+        "name": "williamson",
+        "username": "kane",
+        "email": "kane567@gmail.com",
+        "phone": "8286262866",
+        "address": {
+          "street": "winslend",
+          "city": "auckland"
+        }
+      },
+      {
+        "id": "4",
+        "name": "root",
+        "username": "joe",
+        "email": "joeroot56@gmail.com",
+        "phone": "8818186181",
+        "address": {
+          "street": "oval",
+          "city": "london"
+        }
+      }
+    ]
+  }
+}
