@@ -14,11 +14,20 @@ export default function User() {
     address: {
       city: "",
       street: "",
+      geo: {
+        lat: "",
+        lng: "",
+      },
     },
     company: {
       name: "",
     },
   });
+  const {
+    address: {
+      geo: { lat, lng },
+    },
+  } = user;
 
   const { name, username, email, phone, website } = user;
   const {
@@ -56,6 +65,12 @@ export default function User() {
           </div>
           <div className="col-md-6">
             <li className="list-group-item">street: {street} </li>
+          </div>
+          <div className="col-md-6">
+            <li className="list-group-item my-2">lat: {lat} </li>
+          </div>
+          <div className="col-md-6">
+            <li className="list-group-item my-2">lng: {lng} </li>
           </div>
         </div>
       </ul>
